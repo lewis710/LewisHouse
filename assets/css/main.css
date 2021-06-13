@@ -2667,9 +2667,9 @@ input, select, textarea {
 		
 		#footer .icons li {
 			display: inline-block;
-			line-height: 1em;
-			margin-left: 0.25em;
-			padding-left: 0.25em;
+			line-height: 0em;
+			margin-left: 0em;
+			padding-left: 0em;
 		}
 
 			#footer .icons li a {
